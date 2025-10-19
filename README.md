@@ -1,3 +1,11 @@
+🎯 Aim
+To write a Python program to convert the number 16 into its binary representation using built-in Python functions.
+
+🧠 Algorithm
+Assign the value 16 to a variable a.
+Use the built-in bin() function to convert the number to binary.
+Print the result.
+
 # Built-in Functions -Binary Conversion Using Built-in Functions in Python
 
 ## 🎯 Aim
@@ -180,4 +188,3 @@ else:
 ## Result
 The program successfully takes a number as input from the user, reverses it using a while loop, and compares it with the original number.
 If both are equal, it confirms that the number is a palindrome; otherwise, it displays that it is not a palindrome.
-\
